@@ -1,0 +1,4 @@
+#Sun Sep 20 20:24:50 NPT 2020
+base.0=C\:\\Users\\Itp Manish\\Desktop\\Flutter Applications\\Practices\\4\\itp_DiceRoller\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
